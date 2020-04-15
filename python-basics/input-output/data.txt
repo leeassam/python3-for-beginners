@@ -1,0 +1,5 @@
+This is the first line of text in the file
+This is a line inserted between line 1 and 2
+This is the second line of text in the file
+This is the third line of text in the file
+This is the fourth line of text in the file

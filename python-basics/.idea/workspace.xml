@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27938683-b2bf-462f-9e7a-d9d09986f227" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="python-basics" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YHfhLTpJ2IwTgJsvqBZ3zyLAAq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data-files" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data-files" />
+      <recent name="$PROJECT_DIR$/test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.http-file">
+    <configuration name="csv-file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-basics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data-files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data-files/csv-file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="files-directories" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-basics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/input-output" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/input-output/files-directories.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="http-file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-basics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/http" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/http/http-file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="json-file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-basics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data-files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data-files/json-file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pandas-file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-basics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data-files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data-files/pandas-file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.http-file" />
+        <item itemvalue="Python.json-file" />
+        <item itemvalue="Python.pandas-file" />
+        <item itemvalue="Python.csv-file" />
+        <item itemvalue="Python.files-directories" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27938683-b2bf-462f-9e7a-d9d09986f227" name="Default Changelist" comment="" />
+      <created>1582604559483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582604559483</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1889" height="327" key="GridCell.Tab.0.bottom" timestamp="1586142094818">
+      <screen x="3200" y="-293" width="1920" height="1057" />
+    </state>
+    <state width="1889" height="321" key="GridCell.Tab.0.bottom/0.23.1280.777/1280.23.1920.1057@1280.23.1920.1057" timestamp="1584386865716" />
+    <state width="1249" height="184" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1585016550266" />
+    <state width="1889" height="289" key="GridCell.Tab.0.bottom/3200.-293.1920.1057/0.23.1280.777/1280.-257.1920.1057@1280.-257.1920.1057" timestamp="1585617448806" />
+    <state width="1889" height="327" key="GridCell.Tab.0.bottom/3200.-293.1920.1057/0.23.1280.777/1280.-257.1920.1057@3200.-293.1920.1057" timestamp="1586142094818" />
+    <state width="1892" height="260" key="GridCell.Tab.0.bottom/3200.-316.1920.1080/0.0.1280.800/1280.-280.1920.1080@3200.-316.1920.1080" timestamp="1583293217578" />
+    <state width="1889" height="327" key="GridCell.Tab.0.center" timestamp="1586142094817">
+      <screen x="3200" y="-293" width="1920" height="1057" />
+    </state>
+    <state width="1889" height="321" key="GridCell.Tab.0.center/0.23.1280.777/1280.23.1920.1057@1280.23.1920.1057" timestamp="1584386865715" />
+    <state width="1249" height="184" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1585016550266" />
+    <state width="1889" height="289" key="GridCell.Tab.0.center/3200.-293.1920.1057/0.23.1280.777/1280.-257.1920.1057@1280.-257.1920.1057" timestamp="1585617448805" />
+    <state width="1889" height="327" key="GridCell.Tab.0.center/3200.-293.1920.1057/0.23.1280.777/1280.-257.1920.1057@3200.-293.1920.1057" timestamp="1586142094817" />
+    <state width="1892" height="260" key="GridCell.Tab.0.center/3200.-316.1920.1080/0.0.1280.800/1280.-280.1920.1080@3200.-316.1920.1080" timestamp="1583293217573" />
+    <state width="1889" height="327" key="GridCell.Tab.0.left" timestamp="1586142094816">
+      <screen x="3200" y="-293" width="1920" height="1057" />
+    </state>
+    <state width="1889" height="321" key="GridCell.Tab.0.left/0.23.1280.777/1280.23.1920.1057@1280.23.1920.1057" timestamp="1584386865715" />
+    <state width="1249" height="184" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1585016550265" />
+    <state width="1889" height="289" key="GridCell.Tab.0.left/3200.-293.1920.1057/0.23.1280.777/1280.-257.1920.1057@1280.-257.1920.1057" timestamp="1585617448804" />
+    <state width="1889" height="327" key="GridCell.Tab.0.left/3200.-293.1920.1057/0.23.1280.777/1280.-257.1920.1057@3200.-293.1920.1057" timestamp="1586142094816" />
+    <state width="1892" height="260" key="GridCell.Tab.0.left/3200.-316.1920.1080/0.0.1280.800/1280.-280.1920.1080@3200.-316.1920.1080" timestamp="1583293217570" />
+    <state width="1889" height="327" key="GridCell.Tab.0.right" timestamp="1586142094817">
+      <screen x="3200" y="-293" width="1920" height="1057" />
+    </state>
+    <state width="1889" height="321" key="GridCell.Tab.0.right/0.23.1280.777/1280.23.1920.1057@1280.23.1920.1057" timestamp="1584386865716" />
+    <state width="1249" height="184" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1585016550266" />
+    <state width="1889" height="289" key="GridCell.Tab.0.right/3200.-293.1920.1057/0.23.1280.777/1280.-257.1920.1057@1280.-257.1920.1057" timestamp="1585617448805" />
+    <state width="1889" height="327" key="GridCell.Tab.0.right/3200.-293.1920.1057/0.23.1280.777/1280.-257.1920.1057@3200.-293.1920.1057" timestamp="1586142094817" />
+    <state width="1892" height="260" key="GridCell.Tab.0.right/3200.-316.1920.1080/0.0.1280.800/1280.-280.1920.1080@3200.-316.1920.1080" timestamp="1583293217576" />
+    <state width="1889" height="327" key="GridCell.Tab.1.bottom" timestamp="1586142094821">
+      <screen x="3200" y="-293" width="1920" height="1057" />
+    </state>
+    <state width="1889" height="321" key="GridCell.Tab.1.bottom/0.23.1280.777/1280.23.1920.1057@1280.23.1920.1057" timestamp="1584386865718" />
+    <state width="1889" height="321" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1585016550254" />
+    <state width="1889" height="327" key="GridCell.Tab.1.bottom/3200.-293.1920.1057/0.23.1280.777/1280.-257.1920.1057@3200.-293.1920.1057" timestamp="1586142094821" />
+    <state width="1889" height="327" key="GridCell.Tab.1.center" timestamp="1586142094820">
+      <screen x="3200" y="-293" width="1920" height="1057" />
+    </state>
+    <state width="1889" height="321" key="GridCell.Tab.1.center/0.23.1280.777/1280.23.1920.1057@1280.23.1920.1057" timestamp="1584386865717" />
+    <state width="1889" height="321" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1585016550253" />
+    <state width="1889" height="327" key="GridCell.Tab.1.center/3200.-293.1920.1057/0.23.1280.777/1280.-257.1920.1057@3200.-293.1920.1057" timestamp="1586142094820" />
+    <state width="1889" height="327" key="GridCell.Tab.1.left" timestamp="1586142094819">
+      <screen x="3200" y="-293" width="1920" height="1057" />
+    </state>
+    <state width="1889" height="321" key="GridCell.Tab.1.left/0.23.1280.777/1280.23.1920.1057@1280.23.1920.1057" timestamp="1584386865717" />
+    <state width="1889" height="321" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1585016550253" />
+    <state width="1889" height="327" key="GridCell.Tab.1.left/3200.-293.1920.1057/0.23.1280.777/1280.-257.1920.1057@3200.-293.1920.1057" timestamp="1586142094819" />
+    <state width="1889" height="327" key="GridCell.Tab.1.right" timestamp="1586142094820">
+      <screen x="3200" y="-293" width="1920" height="1057" />
+    </state>
+    <state width="1889" height="321" key="GridCell.Tab.1.right/0.23.1280.777/1280.23.1920.1057@1280.23.1920.1057" timestamp="1584386865718" />
+    <state width="1889" height="321" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1585016550254" />
+    <state width="1889" height="327" key="GridCell.Tab.1.right/3200.-293.1920.1057/0.23.1280.777/1280.-257.1920.1057@3200.-293.1920.1057" timestamp="1586142094820" />
+    <state x="3418" y="-293" width="1461" height="1057" key="SettingsEditor" timestamp="1583554518665">
+      <screen x="3200" y="-293" width="1920" height="1057" />
+    </state>
+    <state x="3418" y="-293" width="1461" height="1057" key="SettingsEditor/3200.-293.1920.1057/0.23.1280.777/1280.-257.1920.1057@3200.-293.1920.1057" timestamp="1583554518665" />
+    <state width="960" height="528" key="XDebugger.FullValuePopup" timestamp="1585796730080">
+      <screen x="3200" y="-293" width="1920" height="1057" />
+    </state>
+    <state width="960" height="528" key="XDebugger.FullValuePopup/3200.-293.1920.1057/0.23.1280.777/1280.-257.1920.1057@3200.-293.1920.1057" timestamp="1585796730080" />
+    <state x="1720" y="46" key="com.intellij.ide.util.TipDialog" timestamp="1585280847888">
+      <screen x="1280" y="-257" width="1920" height="1057" />
+    </state>
+    <state x="1720" y="46" key="com.intellij.ide.util.TipDialog/3200.-293.1920.1057/0.23.1280.777/1280.-257.1920.1057@1280.-257.1920.1057" timestamp="1585280847888" />
+    <state x="293" y="246" key="com.intellij.ide.util.TipDialog/3200.-293.1920.1057/0.23.1280.777/1280.-257.1920.1057@3200.-293.1920.1057" timestamp="1583558265886" />
+    <state x="3527" y="-217" width="1180" height="832" key="find.popup" timestamp="1584069296809">
+      <screen x="3200" y="-293" width="1920" height="1057" />
+    </state>
+    <state x="3527" y="-217" width="1180" height="832" key="find.popup/3200.-293.1920.1057/0.23.1280.777/1280.-257.1920.1057@3200.-293.1920.1057" timestamp="1584069296809" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/modules/greeting.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/modules/modules.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

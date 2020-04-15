@@ -1,0 +1,42 @@
+[
+    {
+      "title" : "Casino Royale",
+      "rating" : "PG - 13",
+      "release_year" : 2016,
+      "actors" : ["Daniel Craig", "Eva Green"],
+      "director" : ["Martin Campbell"],
+      "runtime"  : 144
+    },
+    {
+      "title" : "Black Panther",
+      "rating" : "PG - 13",
+      "release_year" : 2018,
+      "actors" : ["Chadwick Boseman", "Michael B. Jordan"],
+      "director" : ["Ryan Coogler"],
+      "runtime" : 135
+    },
+    {
+      "title" : "Avengers: Endgame",
+      "rating" : "PG - 13",
+      "release_year" : 2018,
+      "actors" : ["Robery Downey Jr.", "Chris Evans", "Mark Ruffalo", "Chris Hemsworth"],
+      "director" : ["Joe Russo", "Anthony Russo"],
+      "runtime" : 182
+    },
+    {
+      "title" : "Mission Impossible: Fallout",
+      "rating" : "PG - 13",
+      "release_year" : 2018,
+      "actors" : ["Tom Cruise", "Henry Cavill", "Ving Rhames", "Simon Pegg"],
+      "director" : ["Christopher McQuarrie"],
+      "runtime" : 147
+    },
+      {
+      "title" : "Mad Max: Fury Road",
+      "rating" : "R",
+      "release_year" : 2015,
+      "actors" : ["Tom Hardy", "Charlize Theron"],
+      "director" : ["George Miller"],
+      "runtime" : 120
+    }
+  ]
